@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://wangzhenglong.github.io</id>
-    <title>wzl的blog</title>
-    <updated>2021-07-22T08:40:57.027Z</updated>
+    <id>https://wangzhenglong2008.github.io</id>
+    <title></title>
+    <updated>2021-07-22T09:03:33.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://wangzhenglong.github.io"/>
-    <link rel="self" href="https://wangzhenglong.github.io/atom.xml"/>
-    <subtitle>温馨的个人blog</subtitle>
-    <logo>https://wangzhenglong.github.io/images/avatar.png</logo>
-    <icon>https://wangzhenglong.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, wzl的blog</rights>
+    <link rel="alternate" href="https://wangzhenglong2008.github.io"/>
+    <link rel="self" href="https://wangzhenglong2008.github.io/atom.xml"/>
+    <logo>https://wangzhenglong2008.github.io/images/avatar.png</logo>
+    <icon>https://wangzhenglong2008.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2021, </rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://wangzhenglong.github.io/post/hello-gridea/</id>
-        <link href="https://wangzhenglong.github.io/post/hello-gridea/">
+        <id>https://wangzhenglong2008.github.io/post/hello-gridea/</id>
+        <link href="https://wangzhenglong2008.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
